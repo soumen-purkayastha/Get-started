@@ -1,4 +1,4 @@
 # Get-started
 Getting started with Github
 <br>
-Author - Soumen Purkayastha
+Author - Soumen Purkayastha (learning)
